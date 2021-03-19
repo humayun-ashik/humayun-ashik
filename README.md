@@ -13,7 +13,7 @@
 I am a Software Quality Assurance Engineer @ [Kona Software Lab Ltd.](https://konasl.com/) from Bangladesh, who takes software testing seriously, smiles after finding root causes of problem,
 a geek and loves to automate boring stuffs.  
 
-[![MY RESUME](https://img.shields.io/badge/my%20resume%20-%231572B6.svg?&style=for-the-badge&logo=resume&logoColor=white)](https://humayun-ashik.github.io)
+[![MY RESUME](https://img.shields.io/badge/my%20resume%20-%231572B6.svg?&style=for-the-badge&logo=resume&logoColor=white)](https://humayun-ashik.github.io/resume)
 <br />
 <br />
 </div>
