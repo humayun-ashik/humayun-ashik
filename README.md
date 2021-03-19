@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">. I'm Humayun Ahmed Ashik 👨‍🎓
 
@@ -13,6 +13,7 @@
 I am a Software Quality Assurance Engineer @ [Kona Software Lab Ltd.](https://konasl.com/) from Bangladesh, who takes software testing seriously, smiles after finding root causes of problem,
 a geek and loves to automate boring stuffs.  
 
+[![MY RESUME](https://img.shields.io/badge/my%20resume%20-%231572B6.svg?&style=for-the-badge&logo=resume&logoColor=white)](https://humayun-ashik.github.io)
 <br />
 <br />
 </div>
