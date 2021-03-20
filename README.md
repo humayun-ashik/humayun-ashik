@@ -34,10 +34,13 @@ a geek and loves to automate boring stuffs.
 [![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [![LaTeX](https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 
-<!--
-**Tools & Technologies:**  
 
+**Tools & Technologies:**  
+<code><img height="20" src="https://github.com/humayun-ashik/humayun-ashik/blob/main/images/cucumber.png"></code>
+
+<!--
 <code><img height="20" src="https://img.shields.io/badge/git-%23777BB4.svg?&style=for-the-badge&logo=git&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/testng-%23777BB4.svg?&style=for-the-badge&logo=testng&logoColor=white"></code>
 <code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/github.svg"></code>
 <code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/gitlab.svg"></code>
 <code><img height="20" src="https://github.com/hodehoujolive/hodehoujolive/blob/main/images/linux.svg"></code>
