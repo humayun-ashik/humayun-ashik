@@ -35,8 +35,14 @@ a geek and loves to automate boring stuffs.
 [![LaTeX](https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 
 
-**Tools & Technologies:**  
-<code><img height="20" src="https://github.com/humayun-ashik/humayun-ashik/blob/main/images/cucumber.svg"></code>
+**Tools & Technologies:** 
+ 
+<code><img height="30" src="https://github.com/humayun-ashik/humayun-ashik/blob/main/images/cucumber.svg"></code>
+<code><img height="30" src="https://github.com/humayun-ashik/humayun-ashik/blob/main/images/jira.jpg"></code>
+<code><img height="30" src="https://github.com/humayun-ashik/humayun-ashik/blob/main/images/git.png"></code>
+<code><img height="30" src="https://github.com/humayun-ashik/humayun-ashik/blob/main/images/junit.jpg"></code>
+<code><img height="30" src="https://github.com/humayun-ashik/humayun-ashik/blob/main/images/testng.png"></code>
+<code><img height="30" src="https://github.com/humayun-ashik/humayun-ashik/blob/main/images/selenium.png"></code>
 
 <!--
 <code><img height="20" src="https://img.shields.io/badge/git-%23777BB4.svg?&style=for-the-badge&logo=git&logoColor=white"></code>
