@@ -36,7 +36,7 @@ a geek and loves to automate boring stuffs.
 
 
 **Tools & Technologies:**  
-<code><img height="20" src="https://github.com/humayun-ashik/humayun-ashik/blob/main/images/cucumber.png"></code>
+<code><img height="20" src="https://github.com/humayun-ashik/humayun-ashik/blob/main/images/cucumber.svg"></code>
 
 <!--
 <code><img height="20" src="https://img.shields.io/badge/git-%23777BB4.svg?&style=for-the-badge&logo=git&logoColor=white"></code>
