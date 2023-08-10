@@ -11,11 +11,11 @@
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=samuel&font=default)
 
-I am a Software Quality Assurance Engineer @ [Kona Software Lab Ltd.](https://konasl.com/) from Bangladesh., who takes software testing seriously, smiles after finding root causes of problem,
+I am a Software Quality Assurance Engineer @ [CHEQ Inc.](https://cheqplease.com/) from Bangladesh., who takes software testing seriously, smiles after finding root causes of problem,
 a geek and loves to automate boring stuffs.  
 
-[![MY RESUME](https://img.shields.io/badge/my%20resume%20-%231572B6.svg?&style=for-the-badge&logo=resume&logoColor=white)](https://humayun-ashik.github.io/resume)
-<br />
+<!--[![MY RESUME](https://img.shields.io/badge/my%20resume%20-%231572B6.svg?&style=for-the-badge&logo=resume&logoColor=white)](https://humayun-ashik.github.io/resume) -->
+
 <br />
 </div>
 
@@ -33,12 +33,11 @@ a geek and loves to automate boring stuffs.
 
 <code><img src="https://img.shields.io/badge/Jira-282C34?logo=jira&logoColor=57afe5" alt="Jira logo" title="Jira" height="25" /></code>
 <code><img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium&logoColor=47A248" alt="Selenium logo" title="Selenium" height="25" /></code>
-<code><img src="https://img.shields.io/badge/Cucumber-282C34?logo=cucumber&logoColor=47A248" alt="Cucumber logo" title="Cucumber" height="25" /></code>
 <code><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" /></code>
 <code><img src="https://img.shields.io/badge/IntellijIDEA-282C34?logo=jetbrains&logoColor=764ABC" alt="Jetbrains logo" title="Intellij" height="25" /></code>
 <code><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=23E34F26" alt="Postman logo" title="Postman" height="25" /></code>
 <code><img src="https://img.shields.io/badge/Jenkins-282C34?logo=jenkins&logoColor=9cf" alt="Postman logo" title="Jenkins" height="25" /></code>
-<code><img src="https://img.shields.io/badge/Jmeter-282C34?logo=ApacheJmeter&logoColor=red" alt="Postman logo" title="Jenkins" height="25" /></code>
+<code><img src="https://img.shields.io/badge/Jmeter-282C34?logo=ApacheJmeter&logoColor=red" alt="Postman logo" title="JMeter" height="25" /></code>
 
 
 
