@@ -48,7 +48,7 @@ a geek and loves to automate boring stuffs.
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.atlassian.com/software/jira/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376328/jira.svg" alt="git" width="40" height="40"/> </a>  
 <a href="https://www.atlassian.com/software/confluence/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353597/confluence.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.testrail.com/" target="_blank" rel="noreferrer"> <img src="https://www.testrail.com/wp-content/uploads/2022/12/TestRail_Logo_Main_01.svg" alt="git" width="60" height="40"/> </a>
+<a href="https://www.testrail.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.softwarereviews.com/production/logos/offering_score_snapshots/69026/original/TestRail_Logo_Main_02_2x.png?1694255412" alt="git" width="60" height="40"/> </a>
 </p>
 
 
