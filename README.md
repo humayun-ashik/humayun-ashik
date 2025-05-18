@@ -11,7 +11,6 @@
 I am a Sr. Software Quality Assurance Engineer @ [CHEQ Inc.](https://cheqplease.com/) from Bangladesh, who takes software testing seriously, smiles after finding root causes of problems,
 a geek and loves to automate boring stuffs.  
 
-<!--[![MY RESUME](https://img.shields.io/badge/my%20resume%20-%231572B6.svg?&style=for-the-badge&logo=resume&logoColor=white)](https://humayun-ashik.github.io/resume) -->
 
 <br />
 </div>
@@ -23,22 +22,10 @@ a geek and loves to automate boring stuffs.
 [![SQL](https://img.shields.io/badge/sql%20-%2314354C.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![SHELL](https://img.shields.io/badge/shell%20-%2314354C.svg?&style=for-the-badge&logo=linux&logoColor=23323330)](https://en.wikipedia.org/wiki/Shell_script)
 
-
-<!--
-### Tools & Frameworks
-<code><img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium&logoColor=47A248" alt="Selenium logo" title="Selenium" height="25" /></code>
-<code><img src="https://img.shields.io/badge/WebdriverIO-282C34?logo=webdriverio&logoColor=E44D26" alt="WDIO logo" title="WebdriverIO" height="25" /></code>
-<code><img src="https://img.shields.io/badge/Jira-282C34?logo=jira&logoColor=57afe5" alt="Jira logo" title="Jira" height="25" /></code>
-<code><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" /></code>
-<code><img src="https://img.shields.io/badge/IntellijIDEA-282C34?logo=jetbrains&logoColor=764ABC" alt="Jetbrains logo" title="Intellij" height="25" /></code>
-<code><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=23E34F26" alt="Postman logo" title="Postman" height="25" /></code>
-<code><img src="https://img.shields.io/badge/Jenkins-282C34?logo=jenkins&logoColor=9cf" alt="Postman logo" title="Jenkins" height="25" /></code>
-<code><img src="https://img.shields.io/badge/Jmeter-282C34?logo=ApacheJmeter&logoColor=red" alt="Postman logo" title="JMeter" height="25" /></code>
--->
 ### Tools & Frameworks
 
 <p align="left"> 
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/39/1/selenium-logo-png_seeklogo-394619.png" alt="selenium" width="40" height="40"/> </a>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium" width="40" height="40"/> </a>
 <a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idV7ZoyErg/idPvWqIX1T.png?updated=1667619616092" alt="bash" width="40" height="40"/> </a>
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
 <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353546/chai.svg" alt="mocha" width="40" height="40"/> </a>
@@ -63,7 +50,7 @@ a geek and loves to automate boring stuffs.
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4_ZgS93QUHkeBCXq4_oxjc6YCQAptIcncgzObMi_vFmYJtp4MU3UEdmtiMWpiGElLt0Q&usqp=CAU" width = 90>
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.robi.com.bd/">
-    <img src="https://www.robi.com.bd/_next/static/media/robi-logo-2.d08ae93d.svg" width = 90> 
+    <img src="https://images.seeklogo.com/logo-png/27/1/robi-logo-png_seeklogo-271552.png" width = 90> 
   </a>
 
 
@@ -71,7 +58,7 @@ a geek and loves to automate boring stuffs.
 
 
 ### Latest Blog Post
-- - [Introduction to POS Testing: A Tester’s Guide](- [Frequently Used Unix Commands for Software Tester](https://humayun-ashik.hashnode.dev/frequently-used-unix-commands-for-software-tester))
+- [Introduction to POS Testing: A Tester’s Guide](https://humayun-ashik.hashnode.dev/frequently-used-unix-commands-for-software-tester)
 - [Frequently Used Unix Commands for Software Tester](https://humayun-ashik.hashnode.dev/frequently-used-unix-commands-for-software-tester)
 - [Software Quality Assurance: Probably the best free resources to enhance knowledge](https://humayunashik.blogspot.com/2020/07/software-quality-assurance-probably.html)
 - [Getting Started with Selenium: Set up Selenium-Maven-Java Project in Eclipse](https://humayunashik.blogspot.com/2021/01/getting-started-with-selenium-set-up.html)
