@@ -9,7 +9,7 @@
 <br/>
 
 I am a Sr. Software Quality Assurance Engineer @ [CHEQ Inc.](https://cheqplease.com/) from Bangladesh, who takes software testing seriously, smiles after finding root causes of problems,
-a geek and loves to automate boring stuff.  
+a geek and loves to automate boring stuffs.  
 
 <!--[![MY RESUME](https://img.shields.io/badge/my%20resume%20-%231572B6.svg?&style=for-the-badge&logo=resume&logoColor=white)](https://humayun-ashik.github.io/resume) -->
 
@@ -38,17 +38,17 @@ a geek and loves to automate boring stuff.
 ### Tools & Frameworks
 
 <p align="left"> 
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" alt="selenium" width="40" height="40"/> </a>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/39/1/selenium-logo-png_seeklogo-394619.png" alt="selenium" width="40" height="40"/> </a>
 <a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idV7ZoyErg/idPvWqIX1T.png?updated=1667619616092" alt="bash" width="40" height="40"/> </a>
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
 <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353546/chai.svg" alt="mocha" width="40" height="40"/> </a>
-<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="https://home.apache.org/~fschumacher/jmeter.svg" alt="postman" width="70" height="40"/> </a>  
+<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="https://jmeter.apache.org/images/jmeter.png" alt="postman" width="70" height="40"/> </a>  
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.atlassian.com/software/jira/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376328/jira.svg" alt="git" width="40" height="40"/> </a>  
 <a href="https://www.atlassian.com/software/confluence/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353597/confluence.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.testrail.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.softwarereviews.com/production/logos/offering_score_snapshots/69026/original/TestRail_Logo_Main_02_2x.png?1694255412" alt="git" width="60" height="40"/> </a>
+<a href="https://www.testrail.com/" target="_blank" rel="noreferrer"> <img src="https://www.testrail.com/wp-content/uploads/2022/12/TestRail_Logo_Main_01.svg" alt="testrail" width="60" height="40"/> </a>
 </p>
 
 
@@ -63,7 +63,7 @@ a geek and loves to automate boring stuff.
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4_ZgS93QUHkeBCXq4_oxjc6YCQAptIcncgzObMi_vFmYJtp4MU3UEdmtiMWpiGElLt0Q&usqp=CAU" width = 90>
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.robi.com.bd/">
-    <img src="https://seeklogo.com/images/R/robi-axiata-logo-A9AA50408F-seeklogo.com.png" width = 90> 
+    <img src="https://www.robi.com.bd/_next/static/media/robi-logo-2.d08ae93d.svg" width = 90> 
   </a>
 
 
@@ -71,6 +71,7 @@ a geek and loves to automate boring stuff.
 
 
 ### Latest Blog Post
+- - [Introduction to POS Testing: A Tester’s Guide](- [Frequently Used Unix Commands for Software Tester](https://humayun-ashik.hashnode.dev/frequently-used-unix-commands-for-software-tester))
 - [Frequently Used Unix Commands for Software Tester](https://humayun-ashik.hashnode.dev/frequently-used-unix-commands-for-software-tester)
 - [Software Quality Assurance: Probably the best free resources to enhance knowledge](https://humayunashik.blogspot.com/2020/07/software-quality-assurance-probably.html)
 - [Getting Started with Selenium: Set up Selenium-Maven-Java Project in Eclipse](https://humayunashik.blogspot.com/2021/01/getting-started-with-selenium-set-up.html)
