@@ -50,7 +50,7 @@ a geek and loves to automate boring stuffs.
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4_ZgS93QUHkeBCXq4_oxjc6YCQAptIcncgzObMi_vFmYJtp4MU3UEdmtiMWpiGElLt0Q&usqp=CAU" width = 90>
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.robi.com.bd/">
-    <img src="https://images.seeklogo.com/logo-png/27/1/robi-logo-png_seeklogo-271552.png" width = 90> 
+    <img src="https://www.robi.com.bd/_next/static/media/robi-logo-2.d08ae93d.svg" width = 90>
   </a>
 
 
