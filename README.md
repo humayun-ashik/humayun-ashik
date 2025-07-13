@@ -1,65 +1,89 @@
 <div align="center">
 
-# Hey there. I'm Humayun Ahmed Ashik 👨‍🎓
+# 👋 Hey, I’m Humayun Ahmed Ashik
+
+🎯 **Senior QA Automation Engineer** | 📍 Bangladesh  
+🔍 Passionate about breaking things (so users don’t have to) and automating the boring stuff.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humayun-ashik/)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/3024k_ruet)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/humayun-ashik/)
 
 
-<a href="https://www.linkedin.com/in/humayun-ashik/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
-<a href="https://www.hackerrank.com/profile/3024k_ruet" rel="nofollow"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-<a href="https://leetcode.com/humayun-ashik/" rel="nofollow"><img src="https://img.shields.io/badge/Leetcode-d2d2d2?style=for-the-badge&logo=leetcode&logoColor=black"/> </a>
-<br/>
-
-I am a Sr. Software Quality Assurance Engineer @ [CHEQ Inc.](https://cheqplease.com/) from Bangladesh, who takes software testing seriously, smiles after finding root causes of problems,
-a geek and loves to automate boring stuffs.  
-
-
-<br />
 </div>
 
-### Languages
-[![Java](https://img.shields.io/badge/java-%23777BB4.svg?&style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
-[![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/sql%20-%2314354C.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![SHELL](https://img.shields.io/badge/shell%20-%2314354C.svg?&style=for-the-badge&logo=linux&logoColor=23323330)](https://en.wikipedia.org/wiki/Shell_script)
+---
 
-### Tools & Frameworks
+🛠️ I currently work at [CHEQ Inc.](https://cheqplease.com/), where I ensure software quality through automation, exploratory testing, and process improvement.  
+I take pride in digging into bugs, building efficient test strategies, and sharing knowledge with aspiring QAs.
+
+---
+
+### 🧠 Languages I Use
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,python,bash,html,css)](https://skillicons.dev)
+
+---
+
+
+### ⚙️ Tools & Frameworks
 
 <p align="left"> 
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium" width="40" height="40"/> </a>
-<a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idV7ZoyErg/idPvWqIX1T.png?updated=1667619616092" alt="bash" width="40" height="40"/> </a>
-<a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
-<a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353546/chai.svg" alt="mocha" width="40" height="40"/> </a>
-<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="https://jmeter.apache.org/images/jmeter.png" alt="postman" width="70" height="40"/> </a>  
- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.atlassian.com/software/jira/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376328/jira.svg" alt="git" width="40" height="40"/> </a>  
-<a href="https://www.atlassian.com/software/confluence/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353597/confluence.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.testrail.com/" target="_blank" rel="noreferrer"> <img src="https://www.testrail.com/wp-content/uploads/2022/12/TestRail_Logo_Main_01.svg" alt="testrail" width="60" height="40"/> </a>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" /> 
+<img src="https://img.shields.io/badge/WebdriverIO-000000?style=for-the-badge&logo=webdriverio&logoColor=white" alt="WebdriverIO" /> 
+<img src="https://img.shields.io/badge/TestNG-A30701?style=for-the-badge&logo=java&logoColor=white" alt="TestNG" />
+<img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha" /> 
+<img src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white" alt="Chai" /> 
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter" /> 
+<img src="https://img.shields.io/badge/RestAssured-000000?style=for-the-badge&logo=appveyor&logoColor=white" alt="RestAssured" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> 
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" /> 
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" /> 
+<img src="https://img.shields.io/badge/TestRail-0082CB?style=for-the-badge&logo=testrail&logoColor=white" alt="TestRail" /> 
 </p>
 
+---
 
+### 🏢 Workplaces
 
-### Workplaces
-<p left="center">
-  <a href="https://www.cheqplease.com/">
-    <img src="https://i.vimeocdn.com/portrait/71916559_640x640" width = 90>
-  </a> &nbsp;&nbsp; &nbsp;
-
-   <a href="https://konai.com/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4_ZgS93QUHkeBCXq4_oxjc6YCQAptIcncgzObMi_vFmYJtp4MU3UEdmtiMWpiGElLt0Q&usqp=CAU" width = 90>
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.robi.com.bd/">
-    <img src="https://www.robi.com.bd/_next/static/media/robi-logo-2.d08ae93d.svg" width = 90>
-  </a>
-
-
+<p align="left">
+  <a href="https://cheqplease.com/"><img src="https://i.vimeocdn.com/portrait/71916559_640x640" width="70"/></a> &nbsp;&nbsp;
+  <a href="https://konai.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4_ZgS93QUHkeBCXq4_oxjc6YCQAptIcncgzObMi_vFmYJtp4MU3UEdmtiMWpiGElLt0Q&usqp=CAU" width="70"/></a> &nbsp;&nbsp;
+  <a href="https://robi.com.bd/"><img src="https://www.robi.com.bd/_next/static/media/robi-logo-2.d08ae93d.svg" width="150"/></a>
 </p>
 
+---
 
-### Latest Blog Post
-- [Introduction to POS Testing: A Tester’s Guide](https://humayun-ashik.hashnode.dev/frequently-used-unix-commands-for-software-tester)
-- [Frequently Used Unix Commands for Software Tester](https://humayun-ashik.hashnode.dev/frequently-used-unix-commands-for-software-tester)
-- [Software Quality Assurance: Probably the best free resources to enhance knowledge](https://humayunashik.blogspot.com/2020/07/software-quality-assurance-probably.html)
-- [Getting Started with Selenium: Set up Selenium-Maven-Java Project in Eclipse](https://humayunashik.blogspot.com/2021/01/getting-started-with-selenium-set-up.html)
-- [Finding elements in Web Page - Part I](https://humayunashik.blogspot.com/2021/01/finding-elements-in-web-page-part-i.html)
+### ✍️ Blog Highlights
+
+- [ Just JSON: Why I Built a Chrome Extension to Tame JSON Chaos
+](https://humayun-ashik.medium.com/just-json-why-i-built-a-chrome-extension-to-tame-json-chaos-8bf8ba4c01d1)
+- [ From Idea to Code: How I Merged My First Community Pull Request in My Chrome Extension
+](https://humayun-ashik.medium.com/from-idea-to-code-how-i-merged-my-first-community-pull-request-in-my-chrome-extension-f9ed46916fe3)
+- [ What’s the Ideal QA-to-Developer Ratio? It Depends More Than You Think
+](https://humayun-ashik.medium.com/whats-the-ideal-qa-to-developer-ratio-it-depends-more-than-you-think-906a1fc88458)
+
+- [ Introduction to POS Testing: A Tester’s Guide](https://humayun-ashik.hashnode.dev/introduction-to-pos-testing-a-testers-guide)
+
+- [ Frequently Used Unix Commands for Software Tester](https://humayun-ashik.hashnode.dev/frequently-used-unix-commands-for-software-tester)
+
+
+---
+
+
+<details>
+<summary> Github Stats ⚡</summary>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=humayun-ashik&theme=default)
+
+
+![Humayun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=humayun-ashik&show_icons=true&theme=default)
+
+</details>
+
+---
+
+### ☕ Let’s Connect or Collaborate!
+
+If you’re a fellow tester, open-source contributor, or someone looking to learn QA automation — feel free to reach out or follow me.
+
